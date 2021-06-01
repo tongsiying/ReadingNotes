@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://lanlan2017.github.io/ReadingNotes/
+url: https://tongsiying.github.io/ReadingNotes/
 # root: /
 root: /ReadingNotes/
 # permalink: :year/:month/:day/:title/
@@ -88,7 +88,8 @@ deploy:
   # branch: master #published
   type: git
   # repo: git@github.com:lanlan2017/ReadingNotes.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  repo: https://gh_token@github.com/lanlan2017/ReadingNotes.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  #repo: https://gh_token@github.com/lanlan2017/ReadingNotes.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://tongsiying:wxt1251655406@github.com/tongsiying/ReadingNotes.git 
   # branch: master #published
   branch: gh-pages #published
   # message: [message]
